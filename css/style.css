@@ -3,9 +3,13 @@ body{
     font-family: "Bona Nova";
     font-weight: 400;
     font-size: 30;
+    color: black;
 }
 div{
     background-color: blanchedalmond;
     color: black;
 
+}
+.errorLine{
+    color: red;
 }
